@@ -1,0 +1,1 @@
+This project aims to demonstrate Git flow strategies using NestJS as the base framework.
